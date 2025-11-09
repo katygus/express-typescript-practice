@@ -1,0 +1,4 @@
+# This file ensures the routes directory is tracked by git  
+# You'll create your route files here:
+# - userRoutes.js
+# - productRoutes.js

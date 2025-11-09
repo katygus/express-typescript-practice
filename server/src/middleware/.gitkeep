@@ -1,0 +1,4 @@
+# This file ensures the middleware directory is tracked by git
+# You'll create your middleware files here:
+# - loggingMiddleware.js
+# - validationMiddleware.js

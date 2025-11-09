@@ -1,0 +1,17 @@
+{
+  "name": "express-typescript-practice",
+  "version": "1.0.0",
+  "description": "A practice repository for learning Express.js with TypeScript",
+  "scripts": {
+    "dev:client": "cd client && npm run dev",
+    "dev:server": "cd server && npm run dev",
+    "dev": "concurrently \"npm run dev:server\" \"npm run dev:client\"",
+    "install:all": "cd server && npm install && cd ../client && npm install"
+  },
+  "keywords": ["express", "typescript", "practice", "learning"],
+  "author": "Student",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^7.6.0"
+  }
+}

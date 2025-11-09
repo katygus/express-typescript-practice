@@ -1,0 +1,4 @@
+# This file ensures the controllers directory is tracked by git
+# You'll create your controller files here:
+# - userController.js
+# - productController.js
